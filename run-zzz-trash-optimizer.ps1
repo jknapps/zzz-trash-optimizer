@@ -11,7 +11,7 @@ $ErrorActionPreference = "Stop"
 
 Add-Type -AssemblyName System.Windows.Forms -ErrorAction SilentlyContinue
 
-$inventoryDirectoryName = "relic-jsons"
+$inventoryDirectoryName = "disc-jsons"
 $explicitActions = @("score", "solve", "validate", "crawl", "optimize")
 
 function Get-ProcessInfo {
@@ -134,8 +134,8 @@ function Get-InventoryFilePath {
     }
 
     $dialog = New-Object System.Windows.Forms.OpenFileDialog
-    $dialog.Title = "Select an HSR inventory export"
-    $dialog.Filter = "HSR JSON exports (HSRScanData_*.json)|HSRScanData_*.json|JSON files (*.json)|*.json|All files (*.*)|*.*"
+    $dialog.Title = "Select a ZZZ inventory export"
+    $dialog.Filter = "ZZZ JSON exports (*.ZOD.json)|*.ZOD.json|JSON files (*.json)|*.json|All files (*.*)|*.*"
     $dialog.InitialDirectory = $InitialDirectory
     $dialog.Multiselect = $false
 
@@ -151,10 +151,10 @@ function Get-InventoryFilePath {
 }
 
 function Show-OptimizeIntro {
-    Write-Host "HSR Trash Optimizer"
-    Write-Host "This tool will read your HSR relic export, score your relics against the bundled character database, and generate a safe trash-filter sequence."
+    Write-Host "ZZZ Trash Optimizer"
+    Write-Host "This tool will read your ZZZ disc export, score your discs against the bundled character database, and generate a safe trash-filter sequence."
     Write-Host "No JSON path was provided."
-    [void](Read-Host "Press Enter to select your HSRScanData JSON export")
+    [void](Read-Host "Press Enter to select your ZZZ inventory JSON export")
     Write-Host ""
 }
 
@@ -166,17 +166,17 @@ function Show-ActionStatus {
 
     switch ($ResolvedAction) {
         "optimize" {
-            Write-Host "Scoring relic inventory and generating a trash-filter sequence..."
+            Write-Host "Scoring disc inventory and generating a trash-filter sequence..."
             Write-Host "Inventory: $ResolvedInventoryPath"
             Write-Host ""
         }
         "score" {
-            Write-Host "Scoring relic inventory..."
+            Write-Host "Scoring disc inventory..."
             Write-Host "Inventory: $ResolvedInventoryPath"
             Write-Host ""
         }
         "solve" {
-            Write-Host "Scoring relic inventory and generating a trash-filter sequence..."
+            Write-Host "Scoring disc inventory and generating a trash-filter sequence..."
             Write-Host "Inventory: $ResolvedInventoryPath"
             Write-Host ""
         }
@@ -210,8 +210,8 @@ function Test-InventoryFile {
         throw "Inventory file is not valid JSON: $Path"
     }
 
-    if (-not $raw.relics -or -not ($raw.relics -is [System.Collections.IEnumerable])) {
-        throw "Inventory file does not contain a relics array: $Path"
+    if (-not $raw.discs -or -not ($raw.discs -is [System.Collections.IEnumerable])) {
+        throw "Inventory file does not contain a discs array: $Path"
     }
 }
 
@@ -293,7 +293,7 @@ try {
         if (-not $InventoryPath) {
             $InventoryPath = Get-InventoryFilePath -InitialDirectory (Get-InventoryRoot -RepoRoot $repoRoot)
             if (-not $InventoryPath) {
-                $InventoryPath = Read-Host "Enter the full path to your HSR inventory JSON"
+                $InventoryPath = Read-Host "Enter the full path to your ZZZ inventory JSON"
             }
         }
 
