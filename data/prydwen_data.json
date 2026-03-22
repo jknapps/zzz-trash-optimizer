@@ -1,0 +1,1891 @@
+[
+  {
+    "name": "Alice",
+    "bestDiscSets": [
+      "fangedmetal",
+      "phaethonsmelody",
+      "pufferelectro",
+      "freedomblues",
+      "chaosjazz",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "PEN Ratio",
+        "ATK%"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Anby",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "shockstardisco",
+      "swingjazz",
+      "astralvoice",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%"
+      ],
+      "slot6": [
+        "ATK%",
+        "Impact"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Anby: Soldier 0",
+    "bestDiscSets": [
+      "shadowharmony",
+      "woodpeckerelectro",
+      "hormonepunk",
+      "astralvoice",
+      "thundermetal",
+      "branchbladesong",
+      "pufferelectro"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "ATK%",
+        "Energy Regen",
+        "Anomaly Mastery"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Anton",
+    "bestDiscSets": [
+      "thundermetal",
+      "woodpeckerelectro",
+      "hormonepunk",
+      "pufferelectro"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Aria",
+    "bestDiscSets": [
+      "phaethonsmelody",
+      "freedomblues",
+      "chaosjazz",
+      "shiningaria",
+      "chaoticmetal"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%",
+        "HP%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Astra Yao",
+    "bestDiscSets": [
+      "astralvoice",
+      "swingjazz",
+      "moonlightlullaby",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Energy Regen",
+        "ATK%",
+        "Anomaly Mastery"
+      ],
+      "substats": {
+        "weight1": [
+          "ATK%",
+          "ATK"
+        ],
+        "weight05": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "PEN",
+          "Anomaly Proficiency"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Banyue",
+    "bestDiscSets": [
+      "yunkuitales",
+      "woodpeckerelectro",
+      "branchbladesong"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "HP%"
+      ],
+      "slot6": [
+        "HP%",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "HP%",
+          "ATK%",
+          "HP"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Ben",
+    "bestDiscSets": [
+      "infernometal",
+      "woodpeckerelectro",
+      "branchbladesong",
+      "astralvoice",
+      "hormonepunk",
+      "pufferelectro"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "PEN Ratio",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Billy",
+    "bestDiscSets": [
+      "woodpeckerelectro",
+      "pufferelectro",
+      "hormonepunk",
+      "fangedmetal"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%"
+      ],
+      "slot5": [
+        "ATK%",
+        "PEN Ratio",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Burnice",
+    "bestDiscSets": [
+      "chaosjazz",
+      "pufferelectro",
+      "phaethonsmelody",
+      "freedomblues",
+      "astralvoice",
+      "hormonepunk",
+      "infernometal"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "PEN Ratio",
+        "ATK%"
+      ],
+      "slot6": [
+        "Energy Regen",
+        "Anomaly Mastery",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Caesar",
+    "bestDiscSets": [
+      "astralvoice",
+      "shockstardisco",
+      "kingofthesummit",
+      "protopunk",
+      "freedomblues"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Impact",
+        "Energy Regen",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Corin",
+    "bestDiscSets": [
+      "pufferelectro",
+      "woodpeckerelectro",
+      "branchbladesong",
+      "fangedmetal",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "PEN Ratio",
+        "ATK%",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Dialyn",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "woodpeckerelectro",
+      "swingjazz"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Energy Regen",
+        "Impact",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Ellen",
+    "bestDiscSets": [
+      "pufferelectro",
+      "woodpeckerelectro",
+      "polarmetal",
+      "branchbladesong",
+      "astralvoice",
+      "hormonepunk",
+      "shadowharmony"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "PEN Ratio",
+        "Elemental DMG",
+        "ATK%"
+      ],
+      "slot6": [
+        "ATK%",
+        "Impact",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Evelyn",
+    "bestDiscSets": [
+      "hormonepunk",
+      "pufferelectro",
+      "astralvoice"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "PEN Ratio",
+        "ATK%"
+      ],
+      "slot6": [
+        "ATK%",
+        "HP%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Grace",
+    "bestDiscSets": [
+      "thundermetal",
+      "pufferelectro",
+      "phaethonsmelody",
+      "freedomblues",
+      "astralvoice",
+      "hormonepunk",
+      "chaosjazz"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "PEN Ratio",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Harumasa",
+    "bestDiscSets": [
+      "thundermetal",
+      "hormonepunk",
+      "astralvoice",
+      "branchbladesong",
+      "shadowharmony",
+      "woodpeckerelectro"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "ATK%",
+        "Energy Regen",
+        "Anomaly Mastery"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "ATK%"
+        ],
+        "weight05": [
+          "CRIT DMG",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Hugo",
+    "bestDiscSets": [
+      "hormonepunk",
+      "polarmetal",
+      "woodpeckerelectro",
+      "pufferelectro",
+      "astralvoice",
+      "branchbladesong"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "ATK",
+          "PEN"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Jane Doe",
+    "bestDiscSets": [
+      "fangedmetal",
+      "phaethonsmelody",
+      "pufferelectro",
+      "freedomblues",
+      "chaosjazz",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "PEN Ratio",
+        "ATK%"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Ju Fufu",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "shockstardisco",
+      "woodpeckerelectro",
+      "astralvoice",
+      "hormonepunk",
+      "swingjazz",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Impact",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "ATK"
+        ],
+        "weight05": [
+          "CRIT DMG",
+          "PEN"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Koleda",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "shockstardisco",
+      "swingjazz",
+      "astralvoice",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "Anomaly Proficiency",
+        "CRIT DMG"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "PEN Ratio",
+        "ATK%"
+      ],
+      "slot6": [
+        "Impact",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Lighter",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "shockstardisco",
+      "swingjazz",
+      "astralvoice",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Impact",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Lucia",
+    "bestDiscSets": [
+      "moonlightlullaby",
+      "yunkuitales"
+    ],
+    "statPriority": {
+      "slot4": [
+        "HP%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "slot5": [
+        "HP%",
+        "Elemental DMG",
+        "ATK%"
+      ],
+      "slot6": [
+        "HP%",
+        "Energy Regen",
+        "Impact"
+      ],
+      "substats": {
+        "weight1": [
+          "HP%",
+          "HP"
+        ],
+        "weight05": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Lucy",
+    "bestDiscSets": [
+      "moonlightlullaby",
+      "pufferelectro",
+      "astralvoice",
+      "hormonepunk",
+      "phaethonsmelody",
+      "chaosjazz",
+      "fangedmetal",
+      "swingjazz"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "ATK%",
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Lycaon",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "shockstardisco",
+      "swingjazz",
+      "moonlightlullaby",
+      "astralvoice",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Impact",
+        "Energy Regen",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Manato",
+    "bestDiscSets": [
+      "yunkuitales",
+      "woodpeckerelectro",
+      "branchbladesong",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "Anomaly Proficiency"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "HP%",
+        "ATK%"
+      ],
+      "slot6": [
+        "HP%",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "HP%",
+          "HP",
+          "ATK%",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Miyabi",
+    "bestDiscSets": [
+      "branchbladesong",
+      "polarmetal",
+      "astralvoice",
+      "hormonepunk",
+      "pufferelectro",
+      "woodpeckerelectro"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "PEN Ratio",
+        "ATK%"
+      ],
+      "slot6": [
+        "ATK%",
+        "Anomaly Mastery",
+        "HP%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "ATK%"
+        ],
+        "weight05": [
+          "Anomaly Proficiency",
+          "ATK",
+          "PEN"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Nekomata",
+    "bestDiscSets": [
+      "pufferelectro",
+      "woodpeckerelectro",
+      "branchbladesong",
+      "fangedmetal",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%"
+      ],
+      "slot5": [
+        "PEN Ratio",
+        "ATK%",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Nicole",
+    "bestDiscSets": [
+      "moonlightlullaby",
+      "phaethonsmelody",
+      "astralvoice",
+      "hormonepunk",
+      "chaosjazz",
+      "freedomblues",
+      "swingjazz"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "Anomaly Proficiency",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Energy Regen",
+        "Anomaly Mastery",
+        "Impact"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Orphie & Magus",
+    "bestDiscSets": [
+      "shadowharmony",
+      "swingjazz",
+      "moonlightlullaby",
+      "astralvoice"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Energy Regen",
+        "ATK%",
+        "Impact"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Pan Yinhu",
+    "bestDiscSets": [
+      "astralvoice",
+      "hormonepunk",
+      "swingjazz",
+      "fangedmetal",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG",
+        "HP%"
+      ],
+      "slot6": [
+        "Energy Regen",
+        "ATK%",
+        "Impact"
+      ],
+      "substats": {
+        "weight1": [
+          "ATK%",
+          "ATK"
+        ],
+        "weight05": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "PEN"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Piper",
+    "bestDiscSets": [
+      "fangedmetal",
+      "phaethonsmelody",
+      "pufferelectro",
+      "chaosjazz",
+      "freedomblues",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%"
+      ],
+      "slot5": [
+        "ATK%",
+        "PEN Ratio",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Pulchra",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "shockstardisco",
+      "swingjazz",
+      "astralvoice",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "ATK%",
+        "CRIT DMG"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Impact",
+        "DEF%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Qingyi",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "shockstardisco",
+      "swingjazz",
+      "astralvoice",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Impact",
+        "ATK%",
+        "Anomaly Mastery"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Rina",
+    "bestDiscSets": [
+      "moonlightlullaby",
+      "pufferelectro",
+      "astralvoice",
+      "hormonepunk",
+      "thundermetal",
+      "swingjazz"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Energy Regen",
+        "ATK%",
+        "Anomaly Mastery"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Seed",
+    "bestDiscSets": [
+      "dawnsbloom",
+      "woodpeckerelectro",
+      "branchbladesong",
+      "pufferelectro",
+      "thundermetal",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "ATK%",
+        "Energy Regen",
+        "Impact"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Seth",
+    "bestDiscSets": [
+      "astralvoice",
+      "swingjazz",
+      "freedomblues",
+      "chaosjazz",
+      "hormonepunk",
+      "protopunk",
+      "shockstardisco"
+    ],
+    "statPriority": {
+      "slot4": [
+        "ATK%",
+        "CRIT DMG"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "ATK%",
+        "Impact"
+      ],
+      "substats": {
+        "weight1": [
+          "ATK%",
+          "Anomaly Proficiency"
+        ],
+        "weight05": [
+          "ATK",
+          "PEN"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Soldier 11",
+    "bestDiscSets": [
+      "pufferelectro",
+      "woodpeckerelectro",
+      "astralvoice",
+      "hormonepunk",
+      "branchbladesong",
+      "infernometal",
+      "dawnsbloom"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "PEN Ratio",
+        "Elemental DMG",
+        "ATK%"
+      ],
+      "slot6": [
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "Anomaly Proficiency",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Soukaku",
+    "bestDiscSets": [
+      "freedomblues",
+      "phaethonsmelody",
+      "astralvoice",
+      "hormonepunk",
+      "chaosjazz",
+      "moonlightlullaby"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "ATK%",
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Sunna",
+    "bestDiscSets": [
+      "moonlightlullaby",
+      "swingjazz",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "ATK%",
+        "CRIT DMG",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "ATK%",
+        "Elemental DMG",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Energy Regen",
+        "Impact",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "ATK%",
+          "ATK"
+        ],
+        "weight05": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "PEN",
+          "Anomaly Proficiency"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Trigger",
+    "bestDiscSets": [
+      "kingofthesummit",
+      "shockstardisco",
+      "swingjazz",
+      "astralvoice",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Impact",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Vivian",
+    "bestDiscSets": [
+      "phaethonsmelody",
+      "chaosjazz",
+      "freedomblues",
+      "chaoticmetal",
+      "astralvoice",
+      "hormonepunk",
+      "pufferelectro"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "ATK",
+          "PEN"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Yanagi",
+    "bestDiscSets": [
+      "chaosjazz",
+      "freedomblues",
+      "pufferelectro",
+      "thundermetal",
+      "astralvoice",
+      "hormonepunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "Anomaly Proficiency",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "PEN Ratio",
+        "ATK%"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "Anomaly Proficiency",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Ye Shunguang",
+    "bestDiscSets": [
+      "whitewaterballad",
+      "branchbladesong",
+      "pufferelectro",
+      "astralvoice",
+      "hormonepunk",
+      "fangedmetal",
+      "woodpeckerelectro"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "ATK%",
+        "HP%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "weight05": [
+          "ATK%",
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Yidhari",
+    "bestDiscSets": [
+      "yunkuitales",
+      "woodpeckerelectro",
+      "branchbladesong"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "HP%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "HP%",
+        "ATK%"
+      ],
+      "slot6": [
+        "HP%",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "HP%",
+          "ATK%",
+          "HP"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Yixuan",
+    "bestDiscSets": [
+      "yunkuitales",
+      "woodpeckerelectro",
+      "branchbladesong"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "HP%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "HP%",
+        "ATK%"
+      ],
+      "slot6": [
+        "HP%",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "weight05": [
+          "HP%",
+          "ATK%",
+          "HP"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Yuzuha",
+    "bestDiscSets": [
+      "moonlightlullaby",
+      "phaethonsmelody",
+      "astralvoice",
+      "hormonepunk",
+      "chaosjazz",
+      "freedomblues"
+    ],
+    "statPriority": {
+      "slot4": [
+        "ATK%",
+        "Anomaly Proficiency",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "ATK%",
+        "PEN Ratio",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "Anomaly Mastery",
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "ATK%",
+          "ATK"
+        ],
+        "weight05": [
+          "Anomaly Proficiency",
+          "CRIT Rate",
+          "CRIT DMG",
+          "PEN"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Zhao",
+    "bestDiscSets": [
+      "astralvoice",
+      "moonlightlullaby",
+      "swingjazz",
+      "yunkuitales",
+      "protopunk"
+    ],
+    "statPriority": {
+      "slot4": [
+        "HP%",
+        "CRIT DMG",
+        "CRIT Rate"
+      ],
+      "slot5": [
+        "HP%",
+        "ATK%",
+        "Elemental DMG"
+      ],
+      "slot6": [
+        "HP%",
+        "Energy Regen",
+        "ATK%"
+      ],
+      "substats": {
+        "weight1": [
+          "HP%",
+          "HP"
+        ],
+        "weight05": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ]
+      }
+    },
+    "warnings": []
+  },
+  {
+    "name": "Zhu Yuan",
+    "bestDiscSets": [
+      "chaoticmetal",
+      "woodpeckerelectro",
+      "astralvoice",
+      "hormonepunk",
+      "branchbladesong",
+      "dawnsbloom",
+      "pufferelectro"
+    ],
+    "statPriority": {
+      "slot4": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%"
+      ],
+      "slot5": [
+        "Elemental DMG",
+        "ATK%",
+        "PEN Ratio"
+      ],
+      "slot6": [
+        "ATK%",
+        "Energy Regen"
+      ],
+      "substats": {
+        "weight1": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "ATK%"
+        ],
+        "weight05": [
+          "PEN",
+          "ATK"
+        ]
+      }
+    },
+    "warnings": []
+  }
+]

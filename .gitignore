@@ -1,0 +1,17 @@
+node_modules/
+dist/
+dist-validation/
+.jest-cache/
+.tmp/
+logs/
+data/anaxa_sample.html
+data/evernight.html
+data/trash_filter_sequence.txt
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!tsconfig.validation.json
+!jest.config.js
+!data/prydwen_data.json
+!src/scraper/fixtures/*.json

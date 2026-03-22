@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist-validation"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
